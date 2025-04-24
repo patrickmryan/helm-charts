@@ -3,7 +3,7 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.27.0
-    created: "2025-04-24T12:19:06.231517-04:00"
+    created: "2025-04-24T12:35:23.145093-04:00"
     description: A Helm chart for nginx
     digest: 8c4fc628bd86823b06984d851f5519ad363208f0bb39bdb4a3a9020110790bc1
     name: nginx
@@ -11,4 +11,4 @@ entries:
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-24T12:19:06.231059-04:00"
+generated: "2025-04-24T12:35:23.144267-04:00"
